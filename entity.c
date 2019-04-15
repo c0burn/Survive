@@ -5,8 +5,6 @@ Entity* entities;
 /*=========
 AddEntity
 
-blah
-
 entities are a linked list, the last created entity is pointed to by "entities"
 you can traverse the linked list with ->next and ->prev
 
